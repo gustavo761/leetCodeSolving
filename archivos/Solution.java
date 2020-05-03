@@ -1,5 +1,5 @@
 // Palindrome Number --- LeetCode 
-package leetCode;
+package leetCode.archivos;
 class Solution {
     public boolean isPalindrome(int x) {
         int r = 0, a = x;
