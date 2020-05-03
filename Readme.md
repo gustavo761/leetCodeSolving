@@ -2,4 +2,4 @@
 
 ### Features
 
-- 1 st Problem "Palindrome Number"
+- 1st Problem "Palindrome Number"
