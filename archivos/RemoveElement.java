@@ -1,5 +1,5 @@
 package leetCode.archivos;
-
+// Se debe modificar el array original, además de contar los elementos distintos de val
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int t = 0;
